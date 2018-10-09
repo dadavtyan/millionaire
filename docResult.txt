@@ -1,0 +1,13 @@
+Document Result
+2х + 3 = 7х + 5 - 3х - 12: x-?  - C: false
+3,2x - 1,5 = 1,7x: x-?  - A: true
+3.1 - (0,9x - 1,3) = 1,3x: x-?  - D: true
+x + y = 5 , y - x = 3: x-?  - A: true
+x * y = 125 , y - x = -20: x-?  - C: true
+x / y = 25 , y + x = 104: x-?  - C: true
+|x| * y = 25 , y = x : x-?  - D: true
+|x| * y = 25 , y + x = 0 : x-?  - B: true
+sin(x) = 1 : x-?  - B: true
+cos(x) = 1/2 : x-?  - A: true
+tg(x) = -1 : x-?  - C: true
+ your point = 10
